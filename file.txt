@@ -1,2 +1,4 @@
 My first line in the project
 Longdong is the capital of GB
+Changes to be commited
+Changes not staged
